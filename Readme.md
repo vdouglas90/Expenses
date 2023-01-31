@@ -1,1 +1,0 @@
-Este projeto visa construir uma aplicação de extrato de despesas diárias.
