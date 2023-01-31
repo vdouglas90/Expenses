@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+A mobile app of personal expenses statement
 
 ## Getting Started
 
